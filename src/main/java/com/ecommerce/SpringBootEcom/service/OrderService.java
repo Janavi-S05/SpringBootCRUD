@@ -83,7 +83,7 @@ public class OrderService {
 				itemResponses
 				
 				);
-		return null;
+		return orderResponse;
 	}
 
 	public List<OrderResponse> getAllOrders() {
