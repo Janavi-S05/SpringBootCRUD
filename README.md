@@ -1,5 +1,3 @@
-# SpringBootCRUD
-
 # Spring Boot E-Commerce CRUD Application
 
 A simple Spring Boot project demonstrating **CRUD operations** for an E-commerce system.  
